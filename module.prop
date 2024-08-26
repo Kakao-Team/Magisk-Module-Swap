@@ -1,0 +1,6 @@
+id=SwapConfig
+name=K-Swap
+version=1.0
+versionCode=1
+author=Kakao-Dev
+description=This module creates a swap file (memory swap file) of 4 GB in size and with a usage priority of 60 percent. This module helps to optimize the RAM.
